@@ -1,6 +1,6 @@
 # Hi, I'm Aditya ✨
 
-> 🚀 B.Tech CSE Student | Data Science Enthusiast | Fitness Freak | Builder
+> 🚀 B.Tech CSE Student | Data Science Enthusiast | Fitness Freak
 
 ### 💡 About Me
 - 👨‍💻 I’m a CSE undergrad who lifts *weights and data*
