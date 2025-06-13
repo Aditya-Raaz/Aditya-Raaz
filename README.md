@@ -1,11 +1,14 @@
-## Hi, I'm Aditya ✨
+# Hi, I'm Aditya ✨
 
-👋 Hey, I'm Aditya — a B.Tech CSE student who lifts weights and data 💪📊<br>
-🐍 Learning Data Science one Python script at a time<br>
-📈 Obsessed with turning messy data into clean insights<br>
-💻 Building cool projects, solving real problems<br>
-🏋️‍♂️ Gym in the morning, code in the evening — that’s the grind<br>
-🚀 On a mission to flex brains and biceps — both under heavy load
+> 🚀 B.Tech CSE Student | Data Science Enthusiast | Fitness Freak | Builder
+
+### 💡 About Me
+- 👨‍💻 I’m a CSE undergrad who lifts *weights and data*
+- 🐍 Learning *Data Science* one Python script at a time
+- 🧠 Obsessed with turning *messy data into clean insights*
+- 💡 Building cool projects, solving real problems
+- 💪 Gym in the morning, code in the evening — that’s the grind
+- 🎯 On a mission to flex *brains and biceps* — both under heavy load
 
 
 
